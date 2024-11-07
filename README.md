@@ -1,1 +1,1 @@
-# StudentManagementSystem
+# The Student Management System in Java using DAO (Data Access Object) provides functionalities to manage student records efficiently, enabling CRUD (Create, Read, Update, Delete) operations on a database. It separates database interaction from business logic, promoting a modular and maintainable code structure.
