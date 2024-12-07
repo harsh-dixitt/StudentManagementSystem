@@ -31,9 +31,6 @@ The model represents the student data.
 The service layer provides business logic and acts as an intermediary between the controller (UI layer) and DAO layer.
 - `StudentService`: A class that provides methods to manage student data (e.g., `addStudent()`, `updateStudent()`).
 
-### 4. **Controller (Optional for web applications)**
-- `StudentController`: Handles user requests and invokes appropriate service methods for adding, updating, and deleting student records.
-
 ## Database Schema
 
 The database schema used for the Student Management System is as follows:
